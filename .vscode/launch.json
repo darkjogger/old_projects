@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Graph_Area",
+            "request": "launch",
+            "mainClass": "Graph_Area",
+            "projectName": "old_projects_8cf48fd7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Average_Score",
+            "request": "launch",
+            "mainClass": "Average_Score",
+            "projectName": "old_projects_8cf48fd7"
+        }
+    ]
+}

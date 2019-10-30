@@ -7,9 +7,9 @@ class Person{
     public int avergae_score(int[] s, int len){
         int total = 0;
         for (int i : s){
-            total += i ;
+            total += i;
         }
-        return total/len ;
+        return total/len;
     }
 }
 
